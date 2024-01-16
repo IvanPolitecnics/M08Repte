@@ -6,11 +6,11 @@ HECHO
 
 Clonar el Repositori:
 
-
 Utilitzant Visual Studio Code, cada alumne ha de clonar el repositori acabat de crear a la seva màquina local.
 
 Obre Visual Studio Code, aneu a la pestanya "Source Control" i seleccioneu "Clone Repository". Introduïu l'URL del dipòsit.
 
+![image](https://github.com/IvanPolitecnics/M08Repte/assets/100274553/5e1bdd75-046c-4f17-9407-db11d1abba78)
 
 
 Realitzar Canvis Locals:
