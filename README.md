@@ -5,7 +5,6 @@ Crear un Repositori a GitHub:
 HECHO
 
 Clonar el Repositori:
-![image](https://github.com/IvanPolitecnics/M08Repte/assets/100274553/552301a8-619d-4930-b082-8f26227954aa)
 
 
 Utilitzant Visual Studio Code, cada alumne ha de clonar el repositori acabat de crear a la seva màquina local.
